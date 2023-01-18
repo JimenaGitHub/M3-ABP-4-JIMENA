@@ -22,5 +22,5 @@ function arreglos(){
     }
      
     h11.innerHTML=arreglo
-    h1.innerHTML= "el mayor es " +mayor
+    h1.innerHTML= "El mayor número es " +mayor
 } 
